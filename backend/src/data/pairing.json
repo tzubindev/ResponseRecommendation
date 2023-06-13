@@ -1,0 +1,22 @@
+[
+	{ "label": 0, "type": "business", "keywords": ["commerce", "business", "enterprise", "company", "trade", "industry", "firm", "corporation", "entrepreneurship", "operation", "venture"] },
+	{ "label": 1, "type": "refund", "keywords": ["Reimbursement", "refund", "Repayment", "Return", "Reversal", "Restitution", "Compensation", "Reclamation", "Remuneration", "Redress", "Recompense"] },
+	{ "label": 2, "type": "order", "keywords": ["Command", "order", "Directive", "Instruction", "Decree", "Direction", "Mandate", "Edict", "Request", "Demand", "Arrangement"] },
+	{ "label": 3, "type": "payment", "keywords": ["Remuneration", "payment", "Compensation", "Settlement", "Transaction", "Disbursement", "Transfer", "Salary", "Redemption", "Clearing"] },
+	{
+		"label": 4,
+		"type": "return_policy",
+		"keywords": ["Refund policy", "Exchange policy", "return_policy", "Product return policy", "Cancellation policy", "Warranty policy", "Repurchase policy", "Satisfaction guarantee", "Money-back guarantee", "Customer service policy", "Product satisfaction policy"]
+	},
+	{ "label": 5, "type": "contact", "keywords": ["Connect with", "Get in touch with", "contact", "Reach out to", "Communicate with", "Approach", "Network with", "Link up with", "Correspond with", "Interact with", "Make contact with"] },
+	{
+		"label": 6,
+		"type": "warranty_policy",
+		"keywords": ["Guarantee policy", "warranty_policy", "Warranty agreement", "Product warranty", "Service guarantee", "Repair policy", "Product protection policy", "Quality assurance policy", "Warranty program", "Product assurance policy", "After-sales service policy"]
+	},
+	{ "label": 7, "type": "shipping", "keywords": ["Delivery", "Shipment", "shipping", "Transport", "Dispatch", "Freight", "Consignment", "Transfer", "Carriage", "Conveyance", "Transit"] },
+	{ "label": 8, "type": "damage", "keywords": ["Harm", "damage", "Injury", "Impairment", "Loss", "Destruction", "Ruin", "Breakage", "Defacement", "Spoilage", "Detriment"] },
+	{ "label": 9, "type": "review", "keywords": ["Response", "feedback", "Input", "Reaction", "Review", "Comment", "Critique", "Evaluation", "Opinion", "Observation", "Assessment"] },
+	{ "label": 10, "type": "company", "keywords": ["caller", "ship's_company", "society", "party", "company", "fellowship", "troupe", "companion", "keep_company", "companionship", "accompany"] },
+	{ "label": 11, "type": "product", "keywords": ["mathematical_product", "ware", "production", "product", "merchandise", "intersection", "Cartesian_product"] }
+]

@@ -1,0 +1,93 @@
+{
+	"tags": {
+		"CC": "coordinating conjunction",
+
+		"CD": "cardinal digit",
+
+		"DT": "determiner",
+
+		"EX": "existential there",
+
+		"FW": "foreign word",
+
+		"IN": "preposition/subordinating conjunction",
+
+		"JJ": "adjective",
+
+		"JJR": "adjective comparative",
+
+		"JJS": "adjective superlative",
+
+		"LS": "list marker",
+
+		"MD": "modal",
+
+		"NN": "noun singular or mass",
+
+		"NNS": "noun plural",
+
+		"NNP": "proper noun singular",
+
+		"NNPS": "proper noun plural",
+
+		"PDT": "predeterminer",
+
+		"POS": "possessive ending",
+
+		"PRP": "personal pronoun",
+
+		"PRP$": "possessive pronoun",
+
+		"RB": "adverb",
+
+		"RBR": "adverb",
+
+		"RBS": "adverb superlative",
+
+		"RP": "particle",
+
+		"SYM": "symbol",
+
+		"TO": "to",
+
+		"UH": "interjection",
+
+		"VB": "verb base form",
+
+		"VBD": "verb past tense",
+
+		"VBG": "verb gerund/present participle",
+
+		"VBN": "verb past participle",
+
+		"VBP": "verb sing. present non-3d",
+
+		"VBZ": "verb 3rd person sing. present",
+
+		"WDT": "wh-determiner",
+
+		"WP": "wh-pronoun",
+
+		"WP$": "possessive wh-pronoun",
+
+		"WRB": "wh-adverb",
+
+		":": "Mid-sentence punctuation (: ; ... -- -)",
+
+		"": "Comma",
+
+		".": "End of sentence punctuation (. ! ?)",
+
+		"(": "Opening parenthesis bracket angle bracket or brace",
+
+		")": "Closing parenthesis bracket angle bracket or brace",
+
+		"$": "Currency Sign",
+
+		"''": "Double or single quotation marks",
+
+		"#": "HastTag or Number",
+
+		"``": "Quotes"
+	}
+}
